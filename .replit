@@ -1,4 +1,4 @@
-run="python HelloWorld.py"
+run="python PrintName.py"
 language="python3"
 onBoot="echo Booting up!"
 
