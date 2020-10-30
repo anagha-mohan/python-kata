@@ -1,4 +1,4 @@
-run="python PrintName.py"
+run="python BooleanDrama.py"
 language="python3"
 onBoot="echo Booting up!"
 
