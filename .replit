@@ -1,4 +1,4 @@
-run="python PrintName.py"
+run="python List,TupleandSet.py"
 language="python3"
 onBoot="echo Booting up!"
 
