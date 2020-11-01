@@ -1,4 +1,4 @@
-run="python List,TupleandSet.py"
+run="python Practice.py"
 language="python3"
 onBoot="echo Booting up!"
 

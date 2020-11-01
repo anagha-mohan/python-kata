@@ -15,6 +15,8 @@ friends=Tuple+("Ann",)
 print(friends)
 
 #Set
+#No duplicates
+#No order where added elements is put
 #Useful to compare 2 sets
 set={"Girl","Boy"}
 set.add("Kids")
