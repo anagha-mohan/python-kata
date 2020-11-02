@@ -1,10 +1,16 @@
 # Ask the user to choose one of two options:
-input=input("Do you want to print(p) or exit(q)?: ")
+user_input=input("Do you want to print(p) or exit(q)?: ")
 
-while input=="p":
+while user_input!="q":
+  if user_input=="p":
     print("Hello")
-    input=input("Do you want to print(p) or exit(q)?: ")
-    
+
+  user_input=input("Do you want to print(p) or exit(q)?: ")  
+
+  
+   
+  
+
     
     
 
