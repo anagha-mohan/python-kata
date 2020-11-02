@@ -9,4 +9,3 @@ surname=input("Enter your surname: ")
 
 greeting=name and f"Hello, {surname}"
 print(greeting)
-
