@@ -16,3 +16,7 @@ print(friends_age[0]["name"])
 friends=[("a",1),("b",2),("c",3)]
 dictionary_friends=dict(friends)
 print(dictionary_friends)
+#Iteration Dictionary
+friends_age={"Ann":10,"Bob":15}
+for name,age in friends_age.items():
+  print(f"{name} is {age} years old")
