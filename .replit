@@ -1,8 +1,2 @@
-run="python BooleanDrama.py"
-language="python3"
-onBoot="echo Booting up!"
+run="python Dictionary.py"
 
-[packager]
-afterInstall="date >> package_install_log"
-ignoredPaths=[".git"]
-ignoredPackages=["twitter", "discord"]
