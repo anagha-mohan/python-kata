@@ -1,4 +1,4 @@
-run="python Practice.py"
+run="python WhileLoop.py"
 language="python3"
 onBoot="echo Booting up!"
 
